@@ -1,0 +1,3 @@
+votre numero_de_matricule :147258  votre nom : elboudali est votre prenom :hamza
+votre numero_de_matricule :1478  votre nom : elbujj est votre prenom :kjk
+votre numero_de_matricule :145  votre nom : nknk est votre prenom :ljl

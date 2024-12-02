@@ -1,0 +1,15 @@
+
+ nom de famille  :aaa  prenom du pere : a1 prenom du mere  :a2 nombre d'enfants :3 
+ prenom des anfants : aa1
+ prenom des anfants : aa2
+ prenom des anfants : aa3
+ nom de famille  :bbb  prenom du pere : b1 prenom du mere  :b2 nombre d'enfants :2 
+ prenom des anfants : bb1
+ prenom des anfants : bb2
+ nom de famille  :AAA  prenom du pere : A1 prenom du mere  :A2 nombre d'enfants :3 
+ prenom des anfants : AA1
+ prenom des anfants : AA2
+ prenom des anfants : AA3
+ nom de famille  :BBB  prenom du pere : B1 prenom du mere  :B2 nombre d'enfants :2 
+ prenom des anfants : BB1
+ prenom des anfants : BB2

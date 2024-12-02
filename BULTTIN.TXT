@@ -1,0 +1,3 @@
+
+ nom   :elboudali  prenom : hamza note francais  :14 note anglais :15 note informatique : 17
+ la moyene 15.33 est le mention bien
